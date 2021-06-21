@@ -1,7 +1,7 @@
-let x = 15;
-let y = 8;
-let z = x + y;
+let show = "RMUTL"
+let name = "Norapat Pumyoo"
 
-document.getElementById("test").innerHTML = y + y;
-document.getElementById("test2").innerHTML = x * 10;
-document.getElementById("test3").innerHTML = z;
+console.log(show)
+console.log(name)
+
+// document.getElementById("show").innerHTML = show;
